@@ -1,4 +1,4 @@
-# Heart Disease Prediction using XGBoost 🫀⚡
+# Heart Disease Prediction 🫀⚡
 
 A high-performance machine learning project for predicting heart disease using XGBoost (Extreme Gradient Boosting) algorithm. This system leverages the power of gradient boosting to provide accurate and reliable predictions for early heart disease detection.
 
